@@ -2,7 +2,7 @@
 # Hi, I'm Damian 👋
 
 **Software Engineering Student @ Maynooth University**  
-Building clean, purposeful digital experiences — from web apps to automation tools.
+Building clean, purposeful digital experiences from web apps to automation tools.
 
 ---
 
