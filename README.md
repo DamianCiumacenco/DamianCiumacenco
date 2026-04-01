@@ -38,7 +38,7 @@ Building clean, purposeful digital experiences from web apps to automation tools
 |--------|-------------|------|
 | [🏦 Banking System](https://github.com/DamianCiumacenco/banking-system-java) | Console app simulating core bank operations with OOP | Java |
 | [📊 Grade Tracker](https://github.com/DamianCiumacenco/grade-tracker-python) | Student grade management system with persistent JSON storage | Python |
-| [🌐 Portfolio Website](https://github.com/DamianCiumacenco/portfolio) | Personal portfolio built from scratch with animations and custom cursor | HTML/CSS/JS |
+| [🌐 Portfolio Website](https://damianciumacenco.github.io/) | Personal portfolio built from scratch with animations and custom cursor | HTML/CSS/JS |
 | [📋 WorkFlow App]| UX/UI design project — full research, wireframes and Figma prototype | Figma |
 
 ---
